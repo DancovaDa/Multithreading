@@ -1,6 +1,3 @@
-import java.io.IOException;
-import java.util.*;
-
 Создать public static class TestThread - нить с интерфейсом Runnable.
 TestThread должен выводить в консоль "My first thread".
 
